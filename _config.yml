@@ -1,0 +1,14 @@
+layout_spectrum: 0.22629193984903395
+typography_spectrum: 0.19488718127831817
+color:
+  brandStrength: 0.8433958326932043
+  lightness: 0.26332678738981485
+  saturation: 0.9082649347838014
+  rhythmicContrast: 0.07525611482560635
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: unreal boulder
