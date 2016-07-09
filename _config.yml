@@ -6,9 +6,9 @@ color:
   saturation: 0.9082649347838014
   rhythmicContrast: 0.07525611482560635
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
 name: unreal boulder
